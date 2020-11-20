@@ -1,0 +1,89 @@
+﻿.main {
+    font-family: 'Microsoft YaHei UI';
+    text-align: center;
+}
+
+.title {
+    margin-top: 20px;
+    font-size: 32px;
+    color: #495ab7;
+    font-weight: 600;
+}
+
+.itemclasss {
+    text-align: center;
+    width: 80px;
+}
+
+.itemclassm {
+    text-align: center;
+    width: 100px;
+}
+
+.itemclassl {
+    text-align: center;
+    width: 140px;
+}
+
+.controlclasss {
+    text-align: center;
+    width: 72px;
+}
+
+.controlclassm {
+    text-align: center;
+    width: 92px;
+}
+
+.controlclassl {
+    text-align: center;
+    width: 132px;
+}
+
+.gridview {
+    margin-top: 20px;
+}
+.dropdown {
+    border-radius: 4px;
+}
+.table {
+    margin-left:370px;
+    border-spacing:5px;
+}
+.left {
+    text-align: left;
+    font-size: 16px;
+    color:#b34e4e;
+}
+
+.right {
+    text-align: right;
+    border-radius: 100px;
+    background-color: #f1efef;
+}
+.box {
+    width: 180px;
+    border-radius: 4px;
+}
+.content {
+    width: 1000px;
+    border-radius: 10px;
+    background-color: #c6cadf;
+    margin-left:0px;
+}
+.buttom {
+    font-family: 'Microsoft JhengHei UI';
+    color: #ffffff;
+    font-size:18px;
+    margin-left:4px;
+    background: #495ab7;
+    border-style: none;
+    outline: none;
+}
+.line {
+    margin-top: 10px;
+    width: 430px;
+    background: #507CD1;
+    border-radius: 4px;
+    border-color: #FAEBD7;
+}

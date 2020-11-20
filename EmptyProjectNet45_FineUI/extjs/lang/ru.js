@@ -1,0 +1,1 @@
+Ext.apply(F.ajax,{errorMsg:"Запрос текущей страницы не удался!<br /><br />Сообщение об Ошибке: {0} ({1})"});Ext.apply(F.util,{alertTitle:"Диалог события",confirmTitle:"Диалог подтверждения",formAlertTitle:"Форма неверна",loading:"Загрузка..."});Ext.apply(F.wnd,{closeButtonTooltip:"Закрывает это окно",formChangeConfirmMsg:"Текущая форма была изменена, oтменить изменения?"})

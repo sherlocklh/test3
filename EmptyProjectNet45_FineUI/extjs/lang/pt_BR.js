@@ -1,0 +1,1 @@
+Ext.apply(F.ajax,{errorMsg:"Mensagem de Erro: {0} ( {1} )"});Ext.apply(F.util,{alertTitle:"Alerta",confirmTitle:"Confirma&ccedil;&atilde;o",formAlertTitle:"Formul&aacute;rio Inv&aacute;lido",loading:"Carregando..."});Ext.apply(F.wnd,{closeButtonTooltip:"Close this window",formChangeConfirmMsg:"O formul&aacute;rio atual foi modificado, cancelar Altera&ccedil;&otilde;es?"})

@@ -1,0 +1,1 @@
+Ext.apply(F.ajax,{errorMsg:"Hata bilgisi: {0} ({1})"});Ext.apply(F.util,{alertTitle:"Uyarı",confirmTitle:"Onay",formAlertTitle:"Hatalı form bilgisi",loading:"Yükleniyor..."});Ext.apply(F.wnd,{closeButtonTooltip:"Pencereyi Kapat",formChangeConfirmMsg:"Mevcut sayfadaki bilgiler değiştirildi, değişiklikleri iptal et?"})
